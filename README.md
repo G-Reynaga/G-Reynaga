@@ -17,13 +17,7 @@ const gReynaga = {
   }
 };
 ```
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/gerson-moises-reynaga-sotelo/" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</p>
-
+## My Skill Set
 <div align="center">
 <a href="https://www.w3schools.com/html/default.asp" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60"/>
@@ -45,5 +39,12 @@ const gReynaga = {
 </a>
 <a href="https://nodejs.org/en/docs" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" />
+</a>
+</div>
+
+## Connect with me:
+<div align="center">
+<a href="https://www.linkedin.com/in/gerson-moises-reynaga-sotelo/" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
