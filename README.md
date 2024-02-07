@@ -23,7 +23,7 @@ No dudes en contactarme para cualquier consulta, colaboración o simplemente par
 </a>
 
 <a href="https://wa.me/51977177849" target="_blank">
- <img src=https://img.shields.io/badge/whatsapp-grey?logo=whatsapp alt=whatsapp/>
+ <img src=https://img.shields.io/badge/whatsapp-dark?logo=whatsapp&logoColor=white alt=whatsapp/>
 </a>
 </div>
 
