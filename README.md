@@ -8,7 +8,7 @@ Bienvenido/a a mi rincón en GitHub. Soy un apasionado del desarrollo de softwar
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías.
 
 ## Mis Proyectos Destacados 🛠️
-Aquí encontrarás una variedad de proyectos que reflejan mi experiencia y pasión por construir soluciones innovadoras. Desde Proyecto A hasta Proyecto B, cada uno cuenta una historia única.
+Aquí encontrarás una variedad de proyectos que reflejan mi experiencia y pasión por construir soluciones innovadoras. Desde Proyecto PI Pokemon hasta Proyecto The Wave un E-commerce, cada uno cuenta una historia única.
 
 ## Colaboración y Feedback 🤝
 Estoy abierto colaboraciones interesantes y siempre agradeceré cualquier feedback constructivo. ¡Tu perspectiva es valiosa para mi crecimiento continuo!
@@ -16,7 +16,7 @@ Estoy abierto colaboraciones interesantes y siempre agradeceré cualquier feedba
 ## Contacto 📬
 No dudes en contactarme para cualquier consulta, colaboración o simplemente para charlar sobre tecnología. Estoy disponible en
 
-<div margin-bottom="30px">
+<div align="end">
 
 <a href="https://www.linkedin.com/in/gerson-moises-reynaga-sotelo/" target="_blank">
  <img src=https://img.shields.io/badge/linkedin-blue?logo=linkedin alt=linkedin/>
