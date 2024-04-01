@@ -10,12 +10,6 @@
 - 🎓 Graduado de Desallorrador Software en Sise.
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías.
 
-## Mis Proyectos Destacados 🛠️
-Aquí encontrarás una variedad de proyectos que reflejan mi experiencia y pasión por construir soluciones innovadoras. Desde Proyecto PI Pokemon hasta Proyecto The Wave un E-commerce, cada uno cuenta una historia única.
-
-## Colaboración y Feedback 🤝
-Estoy abierto colaboraciones interesantes y siempre agradeceré cualquier feedback constructivo. ¡Tu perspectiva es valiosa para mi crecimiento continuo!
-
 ## Contacto <img src="https://media.giphy.com/media/0ZPkxtbBrLvpNkPu1v/giphy.gif" width="28">
 No dudes en contactarme para cualquier consulta, colaboración o simplemente para charlar sobre tecnología. Estoy disponible en
 
