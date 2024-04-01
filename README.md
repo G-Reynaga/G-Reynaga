@@ -8,7 +8,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 150px></picture>
 
-- 🌐 Desarrollador/a Full Stack.
+- 🌐 Desarrollador Full Stack.
 - 🎓 Graduado de Desallorrador Software en Sise.
 - 🌱 Siempre aprendiendo y explorando nuevas tecnologías.
 
