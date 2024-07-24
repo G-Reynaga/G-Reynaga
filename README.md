@@ -4,7 +4,7 @@
 <a href="https://github.com/G-Reynaga"><img src="https://readme-typing-svg.herokuapp.com?color=8E28F7&pause=1000&center=true&vCenter=true&lines=Hola%2C+Bienvenido+a+mi+perfil+Github"></a> 
 </div>
 
-## <picture><img src="https://acortar.link/Lp5AdJ" width= 50px></picture> Acerca de mí <img src="https://acortar.link/A2wE40" width="28"> 
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width= 50px></picture> Acerca de mí <img src="https://acortar.link/A2wE40" width="28"> 
 
 <picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 150px></picture>
 
@@ -53,7 +53,7 @@ const gReynaga = {
 
 #
 <div align="center">
- <h2>¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. <img src="https://acortar.link/luUENS" width ="80"> </h2>
+ <h2>¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones. <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> </h2>
 </div>
 
 <div align="end">
