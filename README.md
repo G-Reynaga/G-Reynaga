@@ -48,7 +48,9 @@ const gReynaga = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=G-Reynaga&show_icons=true&locale=es&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="stats"/>
+ 
+  ![][stats]
+  ![][top-languages]
 </div>
 
 #
@@ -57,7 +59,7 @@ const gReynaga = {
 </div>
 
 <div align="end">
-  
+ 
 ![Profile_Views][view-profile-badge]
 </div>
 
@@ -74,4 +76,6 @@ const gReynaga = {
 [portfolio-badge]:https://img.shields.io/badge/Portfolio-gray?logo=github
 [portfolio-url]: https://portfolio-grs.vercel.app/
 [view-profile-badge]: https://komarev.com/ghpvc/?username=G-Reynaga&style=flat&label=Visitors+Count&color=brightgreen
+[top-languages]: https://github-readme-stats.vercel.app/api/top-langs?username=G-Reynaga&layout=compact&langs_count=8&card_width=360&locale=es&theme=nord
+[stats]: https://github-readme-stats.vercel.app/api?username=G-Reynaga&locale=es&show_icons=true&theme=nord
 [footer]: https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer
