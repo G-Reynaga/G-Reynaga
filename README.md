@@ -1,7 +1,7 @@
 <div align="center">
  
 ![][header]
-<a href="https://github.com/G-Reynaga"><img src="https://readme-typing-svg.herokuapp.com?color=8E28F7&pause=1000&center=true&vCenter=true&lines=Hola%2C+Bienvenido+a+mi+perfil+Github"></a> 
+<a href="https://github.com/G-Reynaga"><img src="https://readme-typing-svg.herokuapp.com?color=8E28F7&pause=1000&center=true&vCenter=true&lines=Hola%2C+Bienvenido+a+mi+Github"></a> 
 </div>
 
 ## <picture><img src=https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2RyZWlkcjhtZ2UyeWk0NG9uc2d5bm9yeGhxZzdhMzZrcHlzOTlzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/Uaxj062PavgqZRhVkS/giphy.gif width= 50px></picture> Acerca de mí <img src="https://acortar.link/A2wE40" width="28"> 
