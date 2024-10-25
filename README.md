@@ -25,12 +25,17 @@ No dudes en contactarme para cualquier consulta, colaboración o simplemente par
 
 ```js
 const gReynaga = {
-  pronouns: 'he' || 'him',
+  pronouns: [ 'he', 'him' ],
   code: {
     languages: [ "JavaScript" ],
     database: [ "PostgreSQL", "MySQL" ],
     backEnd: [ "NodeJs", "Express", "Sequelize" ],
-    frontEnd: [ "React", "Redux", "Hooks", "CSS modules","TypeScript","NextJS" ],
+    frontEnd: {
+      frameworks: [ "React", "NextJS", "Astro" ],
+      stateManagement: [ "Redux" ],
+      styling: [ "CSS modules", "Tailwind" ],
+      typing: [ "TypeScript" ]
+   },
     inProgress: [ "NestJS" ]
   },
   contact: {
