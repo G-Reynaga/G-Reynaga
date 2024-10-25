@@ -29,14 +29,18 @@ const gReynaga = {
   code: {
     languages: [ "JavaScript" ],
     database: [ "PostgreSQL", "MySQL" ],
-    backEnd: [ "NodeJs", "Express", "Sequelize" ],
+    backEnd: {
+      frameworks: [ "Express" ],
+      orm: [ "Sequelize" ],
+      utilities: [ "JWT", "Bcrypt", "dayJS" ],
+    },
     frontEnd: {
       frameworks: [ "React", "NextJS", "Astro" ],
       stateManagement: [ "Redux" ],
       styling: [ "CSS modules", "Tailwind" ],
       typing: [ "TypeScript" ]
    },
-    inProgress: [ "NestJS" ]
+    inProgress: [ "NestJS", "TypeORM" ]
   },
   contact: {
     email: "gerson.reynaga23@gmail.com",
